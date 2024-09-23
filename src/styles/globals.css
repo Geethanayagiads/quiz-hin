@@ -364,3 +364,39 @@ input:focus-visible {
 	stroke-width: 5px;
 	fill: none;
 }
+
+.skiptranslate,
+.goog-te-banner-frame,
+.goog-te-menu-frame,
+.goog-te-menu-value,
+.goog-te-gadget-icon {
+    display: none !important;
+}
+
+.goog-te-gadget {
+    display: block !important;
+}
+
+body {
+    top: 0 !important;
+}
+.goog-te-banner-frame,
+.goog-te-menu-frame,
+.goog-te-menu-value,
+.goog-te-gadget-icon,
+.goog-te-gadget-button,
+.goog-te-gadget-simple,
+.goog-logo-link,
+.goog-logo-img {
+    display: none !important;
+}
+
+#google_translate_element {
+    display: block !important;
+    margin: 0px;
+}
+
+.goog-te-menu2, 
+.goog-te-menu2-item {
+    font-size: 14px !important; 
+}

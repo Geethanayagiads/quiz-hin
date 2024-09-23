@@ -33,10 +33,10 @@ export default function MainHome () {
             ))}
           </h1>
           <p className='mb-20'>
-            Play Legislature Quiz!
+            विधानमंडल प्रश्नोत्तरी खेलें!
           </p>
           <button onClick={handlePlay} id='play' className='btn-primary uppercase px-6 py-4 text-lg max-w-md w-full mx-auto mt-10'>
-            Play
+            खेलें
           </button>
 
         </article>

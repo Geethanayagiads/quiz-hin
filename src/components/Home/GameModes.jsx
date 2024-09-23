@@ -5,18 +5,18 @@ import { TbDeviceGamepad2 } from 'react-icons/tb'
 const gameModes = [
 	{
 		icon: <TbDeviceGamepad2 className='text-3xl' />,
-		title: 'Classic',
-		description: 'Complete questions without fail to win! You have wildcards that can help you'
+		title: 'क्लासिक',
+		description: 'जीतने के लिए बिना असफल हुए प्रश्न पूरे करें! आपके पास सहायक विकल्प हैं जो आपकी मदद करेंगे'
 	},
 	{
 		icon: <BiTimeFive className='text-3xl' />,
-		title: 'Time',
-		description: 'Complete questions within the time limit to win! You can use wildcards'
+		title: 'समय',
+		description: 'जीतने के लिए समय सीमा के भीतर प्रश्न पूरे करें! आप सहायक विकल्पों का उपयोग कर सकते हैं'
 	},
 	{
 		icon: <ImInfinite className='text-3xl' />,
-		title: 'Infinite',
-		description: 'Break your record by completing as many questions as you can! You can use wildcards'
+		title: 'अनंत',
+		description: 'जितने अधिक प्रश्न आप हल कर सकें, उतना ही अपना रिकॉर्ड तोड़ें! आप सहायक विकल्पों का उपयोग कर सकते हैं'
 	}
 ]
 

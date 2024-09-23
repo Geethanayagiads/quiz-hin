@@ -1,505 +1,508 @@
 {
 	"Legislative Department": [
 		{
-			"question": "Which article of the Indian Constitution specifies the requirement for members of either House of Parliament to make an oath or affirmation before assuming their seats?",
+			"question": "भारतीय संविधान के किस अनुच्छेद में संसद के किसी भी सदन के सदस्यों को अपनी सीटों को ग्रहण करने से पहले शपथ या घोषणा करने की आवश्यकता का उल्लेख है?",
 			"answers": [
-				"Article 98",
-				"Article 99",
-				"Article 100",
-				"Article 101"
+				"अनुच्छेद 98",
+				"अनुच्छेद 99",
+				"अनुच्छेद 100",
+				"अनुच्छेद 101"
 			],
-			"correctAnswer": "Article 99"
+			"correctAnswer": "अनुच्छेद 99"
 		},
 		{
-			"question": "Article 99 of the Indian Constitution requires members of Parliament to subscribe to an oath or affirmation in accordance with which schedule?",
+			"question": "भारतीय संविधान के अनुच्छेद 99 के अनुसार, संसद के सदस्यों को किस अनुसूची के अनुसार शपथ या घोषणा करनी होती है?",
 			"answers": [
-				"First Schedule",
-				"Second Schedule",
-				"Third Schedule",
-				"Fourth Schedule"
+				"प्रथम अनुसूची",
+				"द्वितीय अनुसूची",
+				"तृतीय अनुसूची",
+				"चतुर्थ अनुसूची"
 			],
-			"correctAnswer": "Third Schedule"
+			"correctAnswer": "तृतीय अनुसूची"
 		},
 		{
-			"question": "What is the purpose of the oath or affirmation mentioned in Article 99 of the Indian Constitution?",
+			"question": "भारतीय संविधान के अनुच्छेद 99 में उल्लिखित शपथ या घोषणा का उद्देश्य क्या है?",
 			"answers": [
-				"To declare allegiance to the President",
-				"To pledge loyalty to the State",
-				"To uphold the Constitution and perform duties faithfully",
-				"To swear in the Prime Minister"
+				"राष्ट्रपति के प्रति निष्ठा की घोषणा करना",
+				"राज्य के प्रति वफादारी की प्रतिज्ञा करना",
+				"संविधान की रक्षा करना और कर्तव्यों को ईमानदारी से निभाना",
+				"प्रधानमंत्री को शपथ लेना"
 			],
-			"correctAnswer": "To uphold the Constitution and perform duties faithfully"
+			"correctAnswer": "संविधान की रक्षा करना और कर्तव्यों को ईमानदारी से निभाना"
 		},
 		{
-			"question": "Under Article 151, who is responsible for laying the reports of the Comptroller and Auditor-General of India relating to the Union's accounts before each House of Parliament?",
+			"question": "अनुच्छेद 151 के अनुसार, भारत के नियंत्रक और महालेखापरीक्षक की रिपोर्टों को संसद के प्रत्येक सदन के समक्ष कौन प्रस्तुत करता है?",
 			"answers": [
-				"The President",
-				"The Finance Minister",
-				"The Comptroller and Auditor-General of India",
-				"The Speaker of the Lok Sabha"
+				"राष्ट्रपति",
+				"वित्त मंत्री",
+				"नियंत्रक और महालेखापरीक्षक",
+				"लोकसभा के अध्यक्ष"
 			],
-			"correctAnswer": "The President"
+			"correctAnswer": "राष्ट्रपति"
 		},
 		{
-			"question": "According to Article 151, the reports of the Comptroller and Auditor-General of India concerning the accounts of a State are submitted to whom?",
+			"question": "अनुच्छेद 151 के अनुसार, राज्य के खातों के संबंध में नियंत्रक और महालेखापरीक्षक की रिपोर्टें किसे प्रस्तुत की जाती हैं?",
 			"answers": [
-				"The State Legislature",
-				"The Prime Minister",
-				"The Governor of the State",
-				"The Chief Minister"
+				"राज्य विधानमंडल",
+				"प्रधानमंत्री",
+				"राज्य के गवर्नर",
+				"मुख्यमंत्री"
 			],
-			"correctAnswer": "The Governor of the State"
+			"correctAnswer": "राज्य के गवर्नर"
 		},
 		{
-			"question": "Who causes the reports of the Comptroller and Auditor-General of India relating to the accounts of a State to be laid before the State Legislature, according to Article 151?",
+			"question": "अनुच्छेद 151 के अनुसार, नियंत्रक और महालेखापरीक्षक की रिपोर्टों को राज्य विधानमंडल के समक्ष प्रस्तुत करने की प्रक्रिया कौन करता है?",
 			"answers": [
-				"The State Legislature",
-				"The Chief Minister",
-				"The Governor of the State",
-				"The Comptroller and Auditor-General of India"
+				"राज्य विधानमंडल",
+				"मुख्यमंत्री",
+				"राज्य के गवर्नर",
+				"नियंत्रक और महालेखापरीक्षक"
 			],
-			"correctAnswer": "The Governor of the State"
+			"correctAnswer": "राज्य के गवर्नर"
 		},
 		{
-			"question": "What is the process for the submission of audit reports related to the Union accounts as per Article 151?",
+			"question": "अनुच्छेद 151 के अनुसार, संघ खातों से संबंधित ऑडिट रिपोर्टों को प्रस्तुत करने की प्रक्रिया क्या है?",
 			"answers": [
-				"The reports are directly sent to the Parliament by the Comptroller and Auditor-General of India.",
-				"The reports are submitted to the President and then laid before each House of Parliament by the President.",
-				"The reports are discussed in the Cabinet before being laid before Parliament.",
-				"The reports are sent to the Finance Minister for review before submission to the President."
+				"रिपोर्टें सीधे नियंत्रक और महालेखापरीक्षक द्वारा संसद को भेजी जाती हैं।",
+				"रिपोर्टें राष्ट्रपति को प्रस्तुत की जाती हैं और फिर राष्ट्रपति द्वारा प्रत्येक सदन के समक्ष रखी जाती हैं।",
+				"रिपोर्टें कैबिनेट में चर्चा की जाती हैं और फिर संसद के समक्ष रखी जाती हैं।",
+				"रिपोर्टें राष्ट्रपति को प्रस्तुत करने से पहले वित्त मंत्री द्वारा समीक्षा की जाती हैं।"
 			],
-			"correctAnswer": "The reports are submitted to the President and then laid before each House of Parliament by the President."
+			"correctAnswer": "रिपोर्टें राष्ट्रपति को प्रस्तुत की जाती हैं और फिर राष्ट्रपति द्वारा प्रत्येक सदन के समक्ष रखी जाती हैं।"
 		},
 		{
-			"question": "How are the audit reports of the Comptroller and Auditor-General of India concerning State accounts processed according to Article 151?",
+			"question": "अनुच्छेद 151 के अनुसार, राज्य खातों से संबंधित नियंत्रक और महालेखापरीक्षक की ऑडिट रिपोर्टों को कैसे संसाधित किया जाता है?",
 			"answers": [
-				"They are reviewed by the State Finance Minister before being laid before the State Legislature.",
-				"They are submitted to the Governor, who then lays them before the State Legislature.",
-				"They are directly sent to the Chief Minister for laying before the State Legislature.",
-				"They are sent to the Parliament for approval before being presented to the State Legislature."
+				"इनकी समीक्षा राज्य वित्त मंत्री द्वारा की जाती है और फिर राज्य विधानमंडल के समक्ष रखी जाती हैं।",
+				"इनकी रिपोर्टें गवर्नर को प्रस्तुत की जाती हैं, जो फिर इन्हें राज्य विधानमंडल के समक्ष रखते हैं।",
+				"इनकी रिपोर्टें सीधे मुख्यमंत्री को भेजी जाती हैं जो राज्य विधानमंडल के समक्ष रखते हैं।",
+				"इनकी रिपोर्टें संसद को अनुमोदन के लिए भेजी जाती हैं और फिर राज्य विधानमंडल के समक्ष प्रस्तुत की जाती हैं।"
 			],
-			"correctAnswer": "They are submitted to the Governor, who then lays them before the State Legislature."
+			"correctAnswer": "इनकी रिपोर्टें गवर्नर को प्रस्तुत की जाती हैं, जो फिर इन्हें राज्य विधानमंडल के समक्ष रखते हैं।"
 		},
 		{
-			"question": "Which article of the Indian Constitution establishes the office of the President of India?",
+			"question": "भारतीय संविधान का कौन सा अनुच्छेद राष्ट्रपति के कार्यालय की स्थापना करता है?",
 			"answers": [
-				"Article 50",
-				"Article 51",
-				"Article 52",
-				"Article 53"
+				"अनुच्छेद 50",
+				"अनुच्छेद 51",
+				"अनुच्छेद 52",
+				"अनुच्छेद 53"
 			],
-			"correctAnswer": "Article 52"
+			"correctAnswer": "अनुच्छेद 52"
 		},
 		{
-			"question": "According to Article 52 of the Indian Constitution, what is the position of the President of India?",
+			"question": "भारतीय संविधान के अनुच्छेद 52 के अनुसार, भारत के राष्ट्रपति की स्थिति क्या है?",
 			"answers": [
-				"Head of the Government",
-				"Head of the State",
-				"Head of the Judiciary",
-				"Head of the Legislature"
+				"सरकार के प्रमुख",
+				"राज्य के प्रमुख",
+				"न्यायपालिका के प्रमुख",
+				"विधानपालिका के प्रमुख"
 			],
-			"correctAnswer": "Head of the State"
+			"correctAnswer": "राज्य के प्रमुख"
 		},
-		{
-			"question": "Article 52 of the Indian Constitution provides for the creation of which office?",
-			"answers": [
-				"Prime Minister of India",
-				"Chief Justice of India",
-				"President of India",
-				"Speaker of the Lok Sabha"
-			],
-			"correctAnswer": "President of India"
-		},
-		{
-			"question": "In which Article of the Indian Constitution is the President of India mentioned as the official head of the State?",
-			"answers": [
-				"Article 50",
-				"Article 51",
-				"Article 52",
-				"Article 53"
-			],
-			"correctAnswer": "Article 52"
-		},
-		{
-			"question": "What does Article 52 of the Indian Constitution establish about the President?",
-			"answers": [
-				"The role and functions of the President",
-				"The method of election of the President",
-				"The office of the President",
-				"The term length of the President"
-			],
-			"correctAnswer": "The office of the President"
-		},
-		{
-			"question": "According to Article 99 of the Indian Constitution, before taking their seat, every member of either House of Parliament must make and subscribe to an oath or affirmation before which authority?",
-			"answers": [
-				"The Prime Minister",
-				"The Speaker of the Lok Sabha",
-				"The President",
-				"The Chief Justice of India"
-			],
-			"correctAnswer": "The President"
-		},
-		{
-			"question": "Which article of the Indian Constitution specifies the requirement for members of either House of Parliament to make an oath or affirmation before assuming their seats?",
-			"answers": [
-				"Article 98",
-				"Article 99",
-				"Article 100",
-				"Article 101"
-			],
-			"correctAnswer": "Article 99"
-		},
-		{
-			"question": "Article 99 of the Indian Constitution requires members of Parliament to subscribe to an oath or affirmation in accordance with which schedule?",
-			"answers": [
-				"First Schedule",
-				"Second Schedule",
-				"Third Schedule",
-				"Fourth Schedule"
-			],
-			"correctAnswer": "Third Schedule"
-		},
-		{
-			"question": "What is the purpose of the oath or affirmation mentioned in Article 99 of the Indian Constitution?",
-			"answers": [
-				"To declare allegiance to the President",
-				"To pledge loyalty to the State",
-				"To uphold the Constitution and perform duties faithfully",
-				"To swear in the Prime Minister"
-			],
-			"correctAnswer": "To uphold the Constitution and perform duties faithfully"
-		},
-		{
-			"question": "In which article of the Indian Constitution is the procedure for making and subscribing to an oath or affirmation by members of Parliament detailed?",
-			"answers": [
-				"Article 98",
-				"Article 99",
-				"Article 100",
-				"Article 101"
-			],
-			"correctAnswer": "Article 99"
-		},
-		{
-			"question": "According to Article 100 of the Indian Constitution, how are questions determined at any sitting of either House of Parliament?",
-			"answers": [
-				"By a majority of votes of all members",
-				"By a majority of votes of the members present and voting",
-				"By a unanimous decision",
-				"By the decision of the Speaker or Chairman"
-			],
-			"correctAnswer": "By a majority of votes of the members present and voting"
-		},
-		{
-			"question": "In the case of an equality of votes, who has the casting vote according to Article 100?",
-			"answers": [
-				"The Prime Minister",
-				"The President",
-				"The Chairman or Speaker",
-				"The Chief Justice of India"
-			],
-			"correctAnswer": "The Chairman or Speaker"
-		},
-		{
-			"question": "As per Article 100, what is the minimum quorum required to constitute a meeting of either House of Parliament until Parliament provides otherwise by law?",
-			"answers": [
-				"One-third of the total members",
-				"One-fourth of the total members",
-				"One-fifth of the total members",
-				"One-tenth of the total members"
-			],
-			"correctAnswer": "One-tenth of the total members"
-		},
-		{
-			"question": "According to Article 100, if there is no quorum during a meeting of a House, what must the Chairman or Speaker do?",
-			"answers": [
-				"Continue the meeting until a quorum is reached",
-				"Adjourn the House or suspend the meeting until there is a quorum",
-				"Cancel the meeting",
-				"Submit a report to the President"
-			],
-			"correctAnswer": "Adjourn the House or suspend the meeting until there is a quorum"
-		},
-		{
-			"question": "Article 100 of the Indian Constitution states that either House of Parliament can act notwithstanding any vacancy in its membership. What does this imply about the validity of proceedings if vacancies exist?",
-			"answers": [
-				"Proceedings become invalid",
-				"Proceedings are considered invalid only if a quorum is not met",
-				"Proceedings remain valid even if it is later discovered that an ineligible person participated",
-				"Proceedings require confirmation by the President"
-			],
-			"correctAnswer": "Proceedings remain valid even if it is later discovered that an ineligible person participated"
-		},
-		{
-			"question": "According to Article 101, how is a member of either House of Parliament disqualified from continuing as a member?",
-			"answers": [
-				"By being convicted of a criminal offense",
-				"By resigning from the position",
-				"By failing to attend three consecutive meetings",
-				"By being appointed to a government position"
-			],
-			"correctAnswer": "By being convicted of a criminal offense"
-		},
-		{
-			"question": "What happens if a member of Parliament is found guilty of corrupt practices according to Article 101?",
-			"answers": [
-				"They are suspended from the House",
-				"They are disqualified from being a member of Parliament",
-				"They are fined",
-				"Their election is annulled"
-			],
-			"correctAnswer": "They are disqualified from being a member of Parliament"
-		},
-		{
-			"question": "Under Article 101, what is one reason for disqualification from being a member of Parliament?",
-			"answers": [
-				"Not participating in parliamentary debates",
-				"Engaging in a profession outside Parliament",
-				"Being convicted of a criminal offense",
-				"Failure to submit annual income reports"
-			],
-			"correctAnswer": "Being convicted of a criminal offense"
-		},
-		{
-			"question": "In addition to general procedural rules, what specific rule does the Supreme Court have regarding the delivery of judgments?",
-			"answers": [
-				"All judgments must be written and signed by the Chief Justice.",
-				"All judgments must be delivered in open Court.",
-				"All judgments must be kept confidential until a final decision is reached.",
-				"All judgments must be reviewed by Parliament before delivery."
-			],
-			"correctAnswer": "All judgments must be delivered in open Court."
-		},
-		{
-			"question": "Under what conditions may the Supreme Court make rules for the enforcement of rights conferred by Part III of the Constitution?",
-			"answers": [
-				"With the consent of the President and Parliament.",
-				"Subject to the provisions of any law made by Parliament.",
-				"After consulting with High Courts.",
-				"By public referendum."
-			],
-			"correctAnswer": "Subject to the provisions of any law made by Parliament."
-		},
-		{
-			"question": "Who is responsible for appointing officers and servants of the Supreme Court?",
-			"answers": [
-				"The President of India",
-				"The Chief Justice of India or another designated Judge or officer",
-				"The Union Public Service Commission",
-				"The Parliament of India"
-			],
-			"correctAnswer": "The Chief Justice of India or another designated Judge or officer"
-		},
-		{
-			"question": "What is required before appointing someone to a position connected with the Supreme Court if specified by the President's rules?",
-			"answers": [
-				"The appointment must be approved by the Chief Justice.",
-				"The candidate must be already attached to the Court.",
-				"Consultation with the Union Public Service Commission is required.",
-				"The candidate must pass a public examination."
-			],
-			"correctAnswer": "Consultation with the Union Public Service Commission is required."
-		},
-		{
-			"question": "Who prescribes the conditions of service for officers and servants of the Supreme Court?",
-			"answers": [
-				"The Union Government",
-				"The President of India",
-				"The Chief Justice of India or a designated Judge or officer",
-				"The Parliament"
-			],
-			"correctAnswer": "The Chief Justice of India or a designated Judge or officer"
-		},
-		{
-			"question": "Which aspect of the rules related to officers and servants of the Supreme Court requires the approval of the President?",
-			"answers": [
-				"Recruitment procedures",
-				"Conditions of service",
-				"Salaries, allowances, leave, or pensions",
-				"Daily administrative functions"
-			],
-			"correctAnswer": "Salaries, allowances, leave, or pensions"
-		},
-		{
-			"question": "Where are the administrative expenses of the Supreme Court, including salaries and pensions, charged?",
-			"answers": [
-				"The Supreme Court's own fund",
-				"The Consolidated Fund of India",
-				"The President's Fund",
-				"The State Governments' funds"
-			],
-			"correctAnswer": "The Consolidated Fund of India"
-		},
-		{
-			"question": "What happens to the fees or other moneys taken by the Supreme Court?",
-			"answers": [
-				"They are kept in a separate Supreme Court fund.",
-				"They are donated to charity.",
-				"They form part of the Consolidated Fund of India.",
-				"They are used to pay court costs."
-			],
-			"correctAnswer": "They form part of the Consolidated Fund of India."
-		},
-		{
-			"question": "Which rule-making authority has the power to decide on salaries, allowances, leave, or pensions of Supreme Court officers and servants?",
-			"answers": [
-				"The Chief Justice of India, with Presidential approval",
-				"The Union Government",
-				"The Parliament",
-				"The Union Public Service Commission"
-			],
-			"correctAnswer": "The Chief Justice of India, with Presidential approval"
-		},
-		{
-			"question": "In what scenario is the Union Public Service Commission's consultation required regarding Supreme Court appointments?",
-			"answers": [
-				"For all appointments made by the Chief Justice",
-				"For appointments specified by rules made by the President",
-				"For appointments to judicial positions only",
-				"For appointments of officers in the administrative staff"
-			],
-			"correctAnswer": "For appointments specified by rules made by the President"
-		},
-		{
-			"question": "What is the role of the Chief Justice of India concerning the conditions of service for Supreme Court staff?",
-			"answers": [
-				"To make the rules for conditions of service",
-				"To approve rules made by the Parliament",
-				"To review salaries set by the Union Government",
-				"To consult with the Union Public Service Commission"
-			],
-			"correctAnswer": "To make the rules for conditions of service"
-		},
-		{
-			"question": "Which of the following is TRUE about the administrative expenses of the Supreme Court?",
-			"answers": [
-				"They are covered by the Supreme Court's budget.",
-				"They are funded by state governments.",
-				"They are charged upon the Consolidated Fund of India.",
-				"They are managed by the Chief Justice's personal funds."
-			],
-			"correctAnswer": "They are charged upon the Consolidated Fund of India."
-		},
-		{
-			"question": "In the context of interpretation of the Constitution, what is included in the term 'substantial question of law'?",
-			"answers": [
-				"Only questions regarding the Constitution",
-				"Questions about the Government of India Act, 1935, and related enactments",
-				"Only questions about the Indian Independence Act, 1947",
-				"Questions about the rules and regulations of Parliament"
-			],
-			"correctAnswer": "Questions about the Government of India Act, 1935, and related enactments"
-		},
-		{
-			"question": "Which of the following Acts is referenced when interpreting substantial questions of law in relation to the Constitution?",
-			"answers": [
-				"The Indian Evidence Act, 1872",
-				"The Government of India Act, 1935",
-				"The Companies Act, 2013",
-				"The Foreign Exchange Management Act, 1999"
-			],
-			"correctAnswer": "The Government of India Act, 1935"
-		},
-		{
-			"question": "What additional documents are included in the interpretation of substantial questions of law according to the given provisions?",
-			"answers": [
-				"Any international treaties",
-				"Orders in Council or orders made under them",
-				"State legislation",
-				"Local administrative rules"
-			],
-			"correctAnswer": "Orders in Council or orders made under them"
-		},
-		{
-			"question": "Which Act, besides the Constitution, is referenced for interpretation in Chapter V of Part VI?",
-			"answers": [
-				"The Indian Penal Code, 1860",
-				"The Government of India Act, 1935",
-				"The Indian Contract Act, 1872",
-				"The Copyright Act, 1957"
-			],
-			"correctAnswer": "The Government of India Act, 1935"
-		},
-		{
-			"question": "Which of the following Acts or orders is considered for substantial questions of law related to the interpretation of the Constitution?",
-			"answers": [
-				"The Indian Trade Union Act, 1926",
-				"The Indian Independence Act, 1947",
-				"The Delhi Special Police Establishment Act, 1946",
-				"The Arbitration and Conciliation Act, 1996"
-			],
-			"correctAnswer": "The Indian Independence Act, 1947"
-		},
-		{
-			"question": "How should references to substantial questions of law as to the interpretation of the Constitution be construed according to the provisions?",
-			"answers": [
-				"They should include interpretations of various national and colonial enactments and orders.",
-				"They should only focus on amendments made post-independence.",
-				"They should be limited to the Indian Penal Code.",
-				"They should exclude historical Acts and orders."
-			],
-			"correctAnswer": "They should include interpretations of various national and colonial enactments and orders."
-		},
-		{
-			"question": "In addition to the Constitution, which other orders are relevant for interpreting substantial questions of law?",
-			"answers": [
-				"Orders of the Supreme Court",
-				"Orders made under the Government of India Act, 1935",
-				"Orders of the State Legislatures",
-				"Orders issued by local administrative bodies"
-			],
-			"correctAnswer": "Orders made under the Government of India Act, 1935"
-		},
-		{
-			"question": "Which of the following is NOT included in the substantial questions of law according to the given provisions?",
-			"answers": [
-				"The Government of India Act, 1935",
-				"The Indian Independence Act, 1947",
-				"Orders in Council or orders made under them",
-				"The Environmental Protection Act, 1986"
-			],
-			"correctAnswer": "The Environmental Protection Act, 1986"
-		},
-		{
-			"question": "Under which Article of the Indian Constitution is the Comptroller and Auditor-General of India appointed?",
-			"answers": [
-				"Article 146",
-				"Article 148",
-				"Article 150",
-				"Article 152"
-			],
-			"correctAnswer": "Article 148"
-		},
-		{
-			"question": "Who appoints the Comptroller and Auditor-General of India?",
-			"answers": [
-				"The Prime Minister",
-				"The Chief Justice of India",
-				"The President of India",
-				"The Finance Minister"
-			],
-			"correctAnswer": "The President of India"
-		},
-		{
-			"question": "According to Article 148, what is required of the Comptroller and Auditor-General of India in terms of conditions of service?",
-			"answers": [
-				"Conditions of service must be determined by the President",
-				"Conditions of service must be determined by Parliament",
-				"Conditions of service must be determined by the Chief Justice",
-				"Conditions of service must be determined by the Union Cabinet"
-			],
-			"correctAnswer": "Conditions of service must be determined by the President"
-		},
-		{
-			"question": "Which of the following powers does NOT fall under the authority of the Comptroller and Auditor-General of India?",
-			"answers": [
-				"Audit of all receipts and expenditure of the Government",
-				"Certification of the annual accounts of the Government",
-				"Supervision of local government budgets",
-				"Audit of all public enterprises"
-			],
-			"correctAnswer": "Supervision of local government budgets"
-		}
+			{
+				"question": "भारतीय संविधान के अनुच्छेद 52 के तहत किस कार्यालय की स्थापना की जाती है?",
+				"answers": [
+					"प्रधानमंत्री of India",
+					"भारत के मुख्य न्यायाधीश",
+					"भारत के राष्ट्रपति",
+					"लोकसभा के अध्यक्ष"
+				],
+				"correctAnswer": "भारत के राष्ट्रपति"
+			},
+			{
+				"question": "भारतीय संविधान के किस अनुच्छेद में राष्ट्रपति को राज्य का आधिकारिक प्रमुख के रूप में उल्लेखित किया गया है?",
+				"answers": [
+					"अनुच्छेद 50",
+					"अनुच्छेद 51",
+					"अनुच्छेद 52",
+					"अनुच्छेद 53"
+				],
+				"correctAnswer": "अनुच्छेद 52"
+			},
+			{
+				"question": "भारतीय संविधान के अनुच्छेद 52 के अनुसार राष्ट्रपति के बारे में क्या स्थापित किया गया है?",
+				"answers": [
+					"राष्ट्रपति की भूमिका और कार्य",
+					"राष्ट्रपति के चुनाव की विधि",
+					"राष्ट्रपति का कार्यालय",
+					"राष्ट्रपति की कार्यकाल की अवधि"
+				],
+				"correctAnswer": "राष्ट्रपति का कार्यालय"
+			},
+			{
+				"question": "भारतीय संविधान के अनुच्छेद 99 के अनुसार, अपनी सीट ग्रहण करने से पहले संसद के किसी भी सदस्यों को किस प्राधिकरण के सामने शपथ या घोषणा करनी होती है?",
+				"answers": [
+					"प्रधानमंत्री",
+					"लोकसभा के अध्यक्ष",
+					"राष्ट्रपति",
+					"भारत के मुख्य न्यायाधीश"
+				],
+				"correctAnswer": "राष्ट्रपति"
+			},
+			{
+				"question": "भारतीय संविधान के किस अनुच्छेद में संसद के किसी भी सदन के सदस्यों को अपनी सीट ग्रहण करने से पहले शपथ या घोषणा करने की आवश्यकता का उल्लेख है?",
+				"answers": [
+					"अनुच्छेद 98",
+					"अनुच्छेद 99",
+					"अनुच्छेद 100",
+					"अनुच्छेद 101"
+				],
+				"correctAnswer": "अनुच्छेद 99"
+			},
+			{
+				"question": "भारतीय संविधान के अनुच्छेद 99 के अनुसार, संसद के सदस्यों को किस अनुसूची के अनुसार शपथ या घोषणा करनी होती है?",
+				"answers": [
+					"प्रथम अनुसूची",
+					"द्वितीय अनुसूची",
+					"तृतीय अनुसूची",
+					"चतुर्थ अनुसूची"
+				],
+				"correctAnswer": "तृतीय अनुसूची"
+			},
+			{
+				"question": "भारतीय संविधान के अनुच्छेद 99 में उल्लिखित शपथ या घोषणा का उद्देश्य क्या है?",
+				"answers": [
+					"राष्ट्रपति के प्रति निष्ठा की घोषणा करना",
+					"राज्य के प्रति वफादारी की प्रतिज्ञा करना",
+					"संविधान की रक्षा करना और कर्तव्यों को ईमानदारी से निभाना",
+					"प्रधानमंत्री को शपथ लेना"
+				],
+				"correctAnswer": "संविधान की रक्षा करना और कर्तव्यों को ईमानदारी से निभाना"
+			},
+			{
+				"question": "भारतीय संविधान के किस अनुच्छेद में संसद के सदस्यों द्वारा शपथ या घोषणा करने की प्रक्रिया का विवरण है?",
+				"answers": [
+					"अनुच्छेद 98",
+					"अनुच्छेद 99",
+					"अनुच्छेद 100",
+					"अनुच्छेद 101"
+				],
+				"correctAnswer": "अनुच्छेद 99"
+			},
+			{
+				"question": "भारतीय संविधान के अनुच्छेद 100 के अनुसार, किसी भी संसद के सत्र में प्रश्नों का निर्धारण कैसे किया जाता है?",
+				"answers": [
+					"सभी सदस्यों के मतदान की बहुमत से",
+					"उपस्थित और मतदान करने वाले सदस्यों के मतदान की बहुमत से",
+					"सर्वसम्मति से निर्णय",
+					"अध्यक्ष या अध्यक्ष के निर्णय द्वारा"
+				],
+				"correctAnswer": "उपस्थित और मतदान करने वाले सदस्यों के मतदान की बहुमत से"
+			},
+			{
+				"question": "अनुच्छेद 100 के अनुसार, समानता की स्थिति में किसके पास अंतिम मतदान का अधिकार होता है?",
+				"answers": [
+					"प्रधानमंत्री",
+					"राष्ट्रपति",
+					"अध्यक्ष या अध्यक्ष",
+					"भारत के मुख्य न्यायाधीश"
+				],
+				"correctAnswer": "अध्यक्ष या अध्यक्ष"
+			},
+				{
+					"question": "अनुच्छेद 100 के अनुसार, संसद के किसी भी सदन की बैठक के लिए न्यूनतम कोरम क्या होता है जब तक कि संसद कानून द्वारा अन्यथा प्रावधान न करे?",
+					"answers": [
+						"सभी सदस्यों का एक-तिहाई",
+						"सभी सदस्यों का एक-चौथाई",
+						"सभी सदस्यों का एक-पाँचवाँ",
+						"सभी सदस्यों का एक-दसवाँ"
+					],
+					"correctAnswer": "सभी सदस्यों का एक-दसवाँ"
+				},
+				{
+					"question": "अनुच्छेद 100 के अनुसार, यदि किसी सदन की बैठक के दौरान कोरम नहीं होता है, तो अध्यक्ष या अध्यक्ष क्या करेंगे?",
+					"answers": [
+						"बैठक को जारी रखें जब तक कि कोरम पूरा न हो जाए",
+						"सदन को स्थगित करें या बैठक को निलंबित करें जब तक कि कोरम पूरा न हो जाए",
+						"बैठक को रद्द करें",
+						"राष्ट्रपति को रिपोर्ट प्रस्तुत करें"
+					],
+					"correctAnswer": "सदन को स्थगित करें या बैठक को निलंबित करें जब तक कि कोरम पूरा न हो जाए"
+				},
+				{
+					"question": "भारतीय संविधान के अनुच्छेद 100 के अनुसार, किसी भी संसद के सदन में सदस्यता में कोई रिक्तियाँ होने पर क्या होता है?",
+					"answers": [
+						"कार्यवाही अमान्य हो जाती है",
+						"कार्यवाही केवल तब अमान्य मानी जाती है जब कोरम पूरा न हो",
+						"कार्यवाही तब भी मान्य रहती है यदि बाद में पता चले कि कोई अनुपयुक्त व्यक्ति शामिल हुआ",
+						"कार्यवाही की पुष्टि राष्ट्रपति द्वारा की जानी चाहिए"
+					],
+					"correctAnswer": "कार्यवाही तब भी मान्य रहती है यदि बाद में पता चले कि कोई अनुपयुक्त व्यक्ति शामिल हुआ"
+				},
+				{
+					"question": "अनुच्छेद 101 के अनुसार, संसद के किसी भी सदन का सदस्य निरंतर रहने के लिए किस स्थिति में अयोग्य हो जाता है?",
+					"answers": [
+						"आपराधिक अपराध में दोषी होने पर",
+						"पद से इस्तीफा देने पर",
+						"तीन लगातार बैठकों में अनुपस्थित रहने पर",
+						"सरकारी पद पर नियुक्त होने पर"
+					],
+					"correctAnswer": "आपराधिक अपराध में दोषी होने पर"
+				},
+				{
+					"question": "अनुच्छेद 101 के अनुसार, यदि किसी सांसद को भ्रष्टाचार के अपराध में दोषी ठहराया जाता है, तो क्या होता है?",
+					"answers": [
+						"उन्हें सदन से निलंबित कर दिया जाता है",
+						"उन्हें संसद का सदस्य बनने के लिए अयोग्य घोषित किया जाता है",
+						"उन्हें जुर्माना लगाया जाता है",
+						"उनका चुनाव रद्द कर दिया जाता है"
+					],
+					"correctAnswer": "उन्हें संसद का सदस्य बनने के लिए अयोग्य घोषित किया जाता है"
+				},
+				{
+					"question": "अनुच्छेद 101 के तहत, संसद के सदस्य के अयोग्यता का एक कारण क्या है?",
+					"answers": [
+						"संसदीय बहसों में भाग नहीं लेना",
+						"संसद के बाहर पेशेवर कार्य करना",
+						"आपराधिक अपराध में दोषी होना",
+						"वार्षिक आय रिपोर्ट प्रस्तुत नहीं करना"
+					],
+					"correctAnswer": "आपराधिक अपराध में दोषी होना"
+				},
+				{
+					"question": "सुप्रीम कोर्ट के निर्णयों की डिलीवरी के संबंध में सुप्रीम कोर्ट के पास कौन सा विशेष नियम है?",
+					"answers": [
+						"सभी निर्णयों को मुख्य न्यायाधीश द्वारा लिखित और हस्ताक्षरित होना चाहिए।",
+						"सभी निर्णयों को सार्वजनिक अदालत में प्रस्तुत किया जाना चाहिए।",
+						"सभी निर्णयों को अंतिम निर्णय तक गोपनीय रखा जाना चाहिए।",
+						"सभी निर्णयों को डिलीवरी से पहले संसद द्वारा समीक्षा की जानी चाहिए।"
+					],
+					"correctAnswer": "सभी निर्णयों को सार्वजनिक अदालत में प्रस्तुत किया जाना चाहिए।"
+				},
+				{
+					"question": "संविधान के भाग III द्वारा प्रदत्त अधिकारों के प्रवर्तन के लिए सुप्रीम कोर्ट के नियम बनाने की शर्तें क्या हैं?",
+					"answers": [
+						"राष्ट्रपति और संसद की सहमति के साथ।",
+						"संसद द्वारा बनाए गए किसी भी कानून की शर्तों के अधीन।",
+						"उच्च न्यायालयों से परामर्श के बाद।",
+						"सार्वजनिक जनमत संग्रह द्वारा।"
+					],
+					"correctAnswer": "संसद द्वारा बनाए गए किसी भी कानून की शर्तों के अधीन।"
+				},
+				{
+					"question": "सुप्रीम कोर्ट के अधिकारियों और कर्मचारियों की नियुक्ति की जिम्मेदारी किसकी होती है?",
+					"answers": [
+						"भारत के राष्ट्रपति",
+						"भारत के मुख्य न्यायाधीश या अन्य निर्दिष्ट न्यायाधीश या अधिकारी",
+						"संघ लोक सेवा आयोग",
+						"भारत की संसद"
+					],
+					"correctAnswer": "भारत के मुख्य न्यायाधीश या अन्य निर्दिष्ट न्यायाधीश या अधिकारी"
+				},
+				{
+					"question": "यदि राष्ट्रपति के नियमों द्वारा निर्दिष्ट किया गया हो, तो सुप्रीम कोर्ट से जुड़े पद पर किसी को नियुक्त करने से पहले क्या आवश्यक है?",
+					"answers": [
+						"नियुक्ति को मुख्य न्यायाधीश द्वारा अनुमोदित किया जाना चाहिए।",
+						"उम्मीदवार पहले से ही अदालत से जुड़ा होना चाहिए।",
+						"संघ लोक सेवा आयोग से परामर्श आवश्यक है।",
+						"उम्मीदवार को सार्वजनिक परीक्षा पास करनी चाहिए।"
+					],
+					"correctAnswer": "संघ लोक सेवा आयोग से परामर्श आवश्यक है।"
+				},
+				
+					{
+						"question": "सुप्रीम कोर्ट के अधिकारियों और कर्मचारियों की सेवा की शर्तें कौन निर्धारित करता है?",
+						"answers": [
+							"संघ सरकार",
+							"भारत के राष्ट्रपति",
+							"भारत के मुख्य न्यायाधीश या एक निर्दिष्ट न्यायाधीश या अधिकारी",
+							"संसद"
+						],
+						"correctAnswer": "भारत के मुख्य न्यायाधीश या एक निर्दिष्ट न्यायाधीश या अधिकारी"
+					},
+					{
+						"question": "सुप्रीम कोर्ट के अधिकारियों और कर्मचारियों से संबंधित नियमों में किस पहलू को राष्ट्रपति की स्वीकृति की आवश्यकता होती है?",
+						"answers": [
+							"भर्ती की प्रक्रियाएं",
+							"सेवा की शर्तें",
+							"वेतन, भत्ते, अवकाश, या पेंशन",
+							"दैनिक प्रशासनिक कार्य"
+						],
+						"correctAnswer": "वेतन, भत्ते, अवकाश, या पेंशन"
+					},
+					{
+						"question": "सुप्रीम कोर्ट के प्रशासनिक खर्च, जिसमें वेतन और पेंशन शामिल हैं, किस पर आरोपित होते हैं?",
+						"answers": [
+							"सुप्रीम कोर्ट के अपने फंड",
+							"संघ का Consolidated Fund",
+							"राष्ट्रपति का फंड",
+							"राज्य सरकारों के फंड"
+						],
+						"correctAnswer": "संघ का Consolidated Fund"
+					},
+					{
+						"question": "सुप्रीम कोर्ट द्वारा ली गई फीस या अन्य धनराशि का क्या होता है?",
+						"answers": [
+							"इन्हें एक अलग सुप्रीम कोर्ट फंड में रखा जाता है।",
+							"इन्हें चैरिटी को दान कर दिया जाता है।",
+							"ये संघ के Consolidated Fund का हिस्सा बन जाती है।",
+							"इन्हें अदालत के खर्चों का भुगतान करने के लिए इस्तेमाल किया जाता है।"
+						],
+						"correctAnswer": "ये संघ के Consolidated Fund का हिस्सा बन जाती है।"
+					},
+					{
+						"question": "सुप्रीम कोर्ट के अधिकारियों और कर्मचारियों के वेतन, भत्ते, अवकाश, या पेंशन के संबंध में नियम बनाने की शक्ति किसके पास है?",
+						"answers": [
+							"मुख्य न्यायाधीश, राष्ट्रपति की स्वीकृति के साथ",
+							"संघ सरकार",
+							"संसद",
+							"संघ लोक सेवा आयोग"
+						],
+						"correctAnswer": "मुख्य न्यायाधीश, राष्ट्रपति की स्वीकृति के साथ"
+					},
+					{
+						"question": "सुप्रीम कोर्ट की नियुक्तियों के संबंध में संघ लोक सेवा आयोग के परामर्श की आवश्यकता किस स्थिति में होती है?",
+						"answers": [
+							"मुख्य न्यायाधीश द्वारा की गई सभी नियुक्तियों के लिए",
+							"राष्ट्रपति द्वारा बनाए गए नियमों से निर्दिष्ट नियुक्तियों के लिए",
+							"केवल न्यायिक पदों के लिए नियुक्तियों के लिए",
+							"प्रशासनिक स्टाफ के अधिकारियों की नियुक्तियों के लिए"
+						],
+						"correctAnswer": "राष्ट्रपति द्वारा बनाए गए नियमों से निर्दिष्ट नियुक्तियों के लिए"
+					},
+					{
+						"question": "सुप्रीम कोर्ट के स्टाफ की सेवा की शर्तों के संबंध में मुख्य न्यायाधीश की भूमिका क्या है?",
+						"answers": [
+							"सेवा की शर्तों के लिए नियम बनाना",
+							"संसद द्वारा बनाए गए नियमों को अनुमोदित करना",
+							"संघ सरकार द्वारा निर्धारित वेतन की समीक्षा करना",
+							"संघ लोक सेवा आयोग से परामर्श करना"
+						],
+						"correctAnswer": "सेवा की शर्तों के लिए नियम बनाना"
+					},
+					{
+						"question": "सुप्रीम कोर्ट के प्रशासनिक खर्चों के बारे में निम्नलिखित में से कौन सा सच है?",
+						"answers": [
+							"ये सुप्रीम कोर्ट के बजट द्वारा कवर किए जाते हैं।",
+							"ये राज्य सरकारों द्वारा वित्तपोषित होते हैं।",
+							"ये संघ के Consolidated Fund पर आरोपित होते हैं।",
+							"ये मुख्य न्यायाधीश के व्यक्तिगत फंड द्वारा प्रबंधित होते हैं।"
+						],
+						"correctAnswer": "ये संघ के Consolidated Fund पर आरोपित होते हैं।"
+					},
+					{
+						"question": "संविधान की व्याख्या के संदर्भ में, 'महत्वपूर्ण कानूनी प्रश्न' की परिभाषा में क्या शामिल है?",
+						"answers": [
+							"केवल संविधान से संबंधित प्रश्न",
+							"भारत सरकार अधिनियम, 1935 और संबंधित कानूनों के बारे में प्रश्न",
+							"केवल भारतीय स्वतंत्रता अधिनियम, 1947 के बारे में प्रश्न",
+							"संसद के नियमों और विनियमों के बारे में प्रश्न"
+						],
+						"correctAnswer": "भारत सरकार अधिनियम, 1935 और संबंधित कानूनों के बारे में प्रश्न"
+					},
+					{
+						"question": "संविधान से संबंधित महत्वपूर्ण कानूनी प्रश्नों की व्याख्या करते समय किस अधिनियम का संदर्भ लिया जाता है?",
+						"answers": [
+							"भारतीय साक्ष्य अधिनियम, 1872",
+							"भारत सरकार अधिनियम, 1935",
+							"कंपनियां अधिनियम, 2013",
+							"विदेशी विनिमय प्रबंधन अधिनियम, 1999"
+						],
+						"correctAnswer": "भारत सरकार अधिनियम, 1935"
+					},
+					
+						{
+							"question": "महत्वपूर्ण कानूनी प्रश्नों की व्याख्या में अतिरिक्त दस्तावेज़ कौन से शामिल हैं?",
+							"answers": [
+								"कोई अंतर्राष्ट्रीय संधियाँ",
+								"काउंसिल के आदेश या उनके तहत बनाए गए आदेश",
+								"राज्य विधान",
+								"स्थानीय प्रशासनिक नियम"
+							],
+							"correctAnswer": "काउंसिल के आदेश या उनके तहत बनाए गए आदेश"
+						},
+						{
+							"question": "धारा V, भाग VI में संविधान के अलावा कौन सा अधिनियम संदर्भित किया गया है?",
+							"answers": [
+								"भारतीय दंड संहिता, 1860",
+								"भारत सरकार अधिनियम, 1935",
+								"भारतीय अनुबंध अधिनियम, 1872",
+								"कॉपीराइट अधिनियम, 1957"
+							],
+							"correctAnswer": "भारत सरकार अधिनियम, 1935"
+						},
+						{
+							"question": "संविधान की व्याख्या के संदर्भ में महत्वपूर्ण कानूनी प्रश्नों के लिए निम्नलिखित में से कौन सा अधिनियम या आदेश विचार में लिया जाता है?",
+							"answers": [
+								"भारतीय ट्रेड यूनियन अधिनियम, 1926",
+								"भारतीय स्वतंत्रता अधिनियम, 1947",
+								"दिल्ली विशेष पुलिस स्थापना अधिनियम, 1946",
+								"मध्यस्थता और सुलह अधिनियम, 1996"
+							],
+							"correctAnswer": "भारतीय स्वतंत्रता अधिनियम, 1947"
+						},
+						{
+							"question": "संविधान की व्याख्या से संबंधित महत्वपूर्ण कानूनी प्रश्नों के संदर्भ को किस प्रकार से समझा जाना चाहिए?",
+							"answers": [
+								"इनमें विभिन्न राष्ट्रीय और उपनिवेशी कानूनों और आदेशों की व्याख्या शामिल होनी चाहिए।",
+								"इनका ध्यान केवल स्वतंत्रता के बाद किए गए संशोधनों पर केंद्रित होना चाहिए।",
+								"इनकी सीमा भारतीय दंड संहिता तक सीमित होनी चाहिए।",
+								"इनमें ऐतिहासिक अधिनियम और आदेशों को बाहर रखा जाना चाहिए।"
+							],
+							"correctAnswer": "इनमें विभिन्न राष्ट्रीय और उपनिवेशी कानूनों और आदेशों की व्याख्या शामिल होनी चाहिए।"
+						},
+						{
+							"question": "संविधान की व्याख्या के लिए महत्वपूर्ण कानूनी प्रश्नों में कौन से अन्य आदेश प्रासंगिक हैं?",
+							"answers": [
+								"सुप्रीम कोर्ट के आदेश",
+								"भारत सरकार अधिनियम, 1935 के तहत बनाए गए आदेश",
+								"राज्य विधानसभाओं के आदेश",
+								"स्थानीय प्रशासनिक निकायों द्वारा जारी आदेश"
+							],
+							"correctAnswer": "भारत सरकार अधिनियम, 1935 के तहत बनाए गए आदेश"
+						},
+						{
+							"question": "निम्नलिखित में से कौन सा संविधान की व्याख्या से संबंधित महत्वपूर्ण कानूनी प्रश्नों में शामिल नहीं है?",
+							"answers": [
+								"भारत सरकार अधिनियम, 1935",
+								"भारतीय स्वतंत्रता अधिनियम, 1947",
+								"काउंसिल के आदेश या उनके तहत बनाए गए आदेश",
+								"पर्यावरण संरक्षण अधिनियम, 1986"
+							],
+							"correctAnswer": "पर्यावरण संरक्षण अधिनियम, 1986"
+						},
+						{
+							"question": "भारतीय संविधान के किस अनुच्छेद के तहत भारत के नियंत्रक और महालेखा परीक्षक की नियुक्ति की जाती है?",
+							"answers": [
+								"अनुच्छेद 146",
+								"अनुच्छेद 148",
+								"अनुच्छेद 150",
+								"अनुच्छेद 152"
+							],
+							"correctAnswer": "अनुच्छेद 148"
+						},
+						{
+							"question": "भारत के नियंत्रक और महालेखा परीक्षक की नियुक्ति कौन करता है?",
+							"answers": [
+								"प्रधानमंत्री",
+								"भारत के मुख्य न्यायाधीश",
+								"भारत के राष्ट्रपति",
+								"वित्त मंत्री"
+							],
+							"correctAnswer": "भारत के राष्ट्रपति"
+						},
+						{
+							"question": "अनुच्छेद 148 के अनुसार, भारत के नियंत्रक और महालेखा परीक्षक से सेवा की शर्तों के संदर्भ में क्या आवश्यक है?",
+							"answers": [
+								"सेवा की शर्तें राष्ट्रपति द्वारा निर्धारित की जानी चाहिए",
+								"सेवा की शर्तें संसद द्वारा निर्धारित की जानी चाहिए",
+								"सेवा की शर्तें मुख्य न्यायाधीश द्वारा निर्धारित की जानी चाहिए",
+								"सेवा की शर्तें संघ कैबिनेट द्वारा निर्धारित की जानी चाहिए"
+							],
+							"correctAnswer": "सेवा की शर्तें राष्ट्रपति द्वारा निर्धारित की जानी चाहिए"
+						},
+						{
+							"question": "निम्नलिखित में से कौन सा अधिकार भारत के नियंत्रक और महालेखा परीक्षक के अधिकारों में नहीं आता है?",
+							"answers": [
+								"सरकार की सभी प्राप्तियों और व्यय का लेखा परीक्षण",
+								"सरकार के वार्षिक खातों की प्रमाणित करना",
+								"सार्वजनिक उद्यमों का लेखा परीक्षण",
+								"स्थानीय सरकारों के बजट की निगरानी"
+							],
+							"correctAnswer": "स्थानीय सरकारों के बजट की निगरानी"
+						}
+
 	]
 	
 }
